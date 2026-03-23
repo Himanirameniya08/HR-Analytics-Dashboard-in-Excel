@@ -11,4 +11,4 @@ To build an interactive HR Analytics Dashboard in Excel that transforms raw empl
 - How are employees distributed based on performance ratings?
 
   # Dashboard
-  - <a href=" https://github.com/Himanirameniya08/HR-Analytics-Dashboard-in-Excel/blob/main/Screenshot%202026-03-23%20172401.png">Dashboard<a/>
+  - <a href="[ https://github.com/Himanirameniya08/HR-Analytics-Dashboard-in-Excel/blob/main/Screenshot%202026-03-23%20172401.png](https://github.com/Himanirameniya08/HR-Analytics-Dashboard-in-Excel/blob/main/Project%20-%20for%20Github.xlsx)">Dashboard<a/>
