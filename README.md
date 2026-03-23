@@ -35,5 +35,6 @@ Designed a clean and consistent dashboard theme
 - Hiring trends show fluctuations with a recent drop, possibly due to seasonal or strategic factors
 - Gender distribution is well-balanced, reflecting strong diversity
 - Majority of employees fall in the 25–40 age group, indicating a young and dynamic workforce
+  
 # Final Conclusion
 This project demonstrates how Excel can be used as a powerful tool for HR analytics and business decision-making. By combining data cleaning, analysis, and visualization, I was able to build a dashboard that provides clear, actionable insights.
