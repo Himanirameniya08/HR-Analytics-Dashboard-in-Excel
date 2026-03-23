@@ -28,5 +28,12 @@ Designed a clean and consistent dashboard theme
 - Highlighted key insights for decision-making
 # Dashboard 
 <img width="1288" height="644" alt="Screenshot 2026-03-23 172401" src="https://github.com/user-attachments/assets/3572426f-b005-44e7-b11b-89190ba830ff" />
-
-
+# Project Insight
+- Only a portion of employees are actively working, indicating potential productivity gaps
+- Salary distribution is consistent across departments, suggesting a standardized pay structure
+- Sales & Marketing dominate headcount, showing a revenue-focused organization
+- Hiring trends show fluctuations with a recent drop, possibly due to seasonal or strategic factors
+- Gender distribution is well-balanced, reflecting strong diversity
+- Majority of employees fall in the 25–40 age group, indicating a young and dynamic workforce
+# Final Conclusion
+This project demonstrates how Excel can be used as a powerful tool for HR analytics and business decision-making. By combining data cleaning, analysis, and visualization, I was able to build a dashboard that provides clear, actionable insights.
