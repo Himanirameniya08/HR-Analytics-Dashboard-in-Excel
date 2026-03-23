@@ -1,2 +1,4 @@
-# HR-Analytics-Dashboard-in-Excel
-Analyzed employee data and build an interactive dashboard that helps in understanding workforce trends, salary structure, and hiring patterns.
+GitHub Project Description
+🎯 Objective
+
+To build an interactive HR Analytics Dashboard in Excel that transforms raw employee data into meaningful insights for better workforce decision-making. The goal was to analyze key HR metrics like headcount, salary, hiring trends, and diversity.
