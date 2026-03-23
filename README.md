@@ -27,5 +27,5 @@ Designed a clean and consistent dashboard theme
 - Converted raw numbers into easy-to-understand visuals
 - Highlighted key insights for decision-making
 # Dashboard 
-- <a href="https://github.com/Himanirameniya08/HR-Analytics-Dashboard-in-Excel/blob/main/Screenshot%202026-03-23%20172401.png">Dashboard<a/>
-# Process
+![Uploading Screenshot 2026-03-23 172401.png…]()
+
