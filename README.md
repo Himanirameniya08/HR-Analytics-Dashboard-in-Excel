@@ -27,5 +27,6 @@ Designed a clean and consistent dashboard theme
 - Converted raw numbers into easy-to-understand visuals
 - Highlighted key insights for decision-making
 # Dashboard 
-![Uploading Screenshot 2026-03-23 172401.png…]()
+<img width="1288" height="644" alt="Screenshot 2026-03-23 172401" src="https://github.com/user-attachments/assets/3572426f-b005-44e7-b11b-89190ba830ff" />
+
 
